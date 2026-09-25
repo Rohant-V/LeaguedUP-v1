@@ -5,5 +5,12 @@
         "T_size": 10,
         "reg_fee": 100.0,
         "ppool": 10000.0
+    },
+    {
+        "name": "HAHA",
+        "game": "VAL",
+        "T_size": 10,
+        "reg_fee": 100.0,
+        "ppool": 1000.0
     }
 ]
